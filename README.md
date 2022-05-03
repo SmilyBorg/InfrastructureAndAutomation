@@ -1,6 +1,8 @@
 # InfrastructureAndAutomation
 Documentation and scripts to manage Infrastructure and automation that I manage. Mainly personal domains and homelab, but some for friends and family too.
 
+Hopefully one day this repo will be as detailed and complete as ones like:-
+- [https://github.com/khuedoan/homelab]
 
 ## Automation
 Automation is currently being done with Terraform, and Nomad is about to be brought in. Vault and Consul will likely be added shortly to simplify secret management and service discovery.
